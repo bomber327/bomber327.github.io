@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'bomber327', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,18 +11,18 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: '',
+    twitter: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    medium: '',
     dev: 'arifszn',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
+    website: 'https://1.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: '@gmail.com',
   },
   resume: {
     fileUrl:
