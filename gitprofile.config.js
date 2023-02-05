@@ -18,11 +18,11 @@ const config = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
+    dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://1.com',
+    website: '',
     phone: '',
-    email: '@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
@@ -30,19 +30,12 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Python',
+    'Django',
   ],
   experiences: [
     {
